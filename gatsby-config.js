@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "AudioC0re",
+    siteUrl: "https://audioc0remain06417.gtsb.io/"
   },
   plugins: [
     {
